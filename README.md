@@ -9,7 +9,7 @@
 
 
 ## UNIT TESTING :
-
+[![Unit Testing](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Unit%20Testing.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Unit%20Testing.yml)
 
 
 
@@ -19,14 +19,15 @@
 
 
 # GIT INSPECTOR :
-
+[![Git Inspector](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Git%20Inspector.yml)
 
 
 # BUILD ON LINUX :
+[![Build-Linux](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Build%20on%20linux.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Build%20on%20linux.yml)
 
 
 # VALGRIND :
-
+[![Valgrind](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/TAMILSELVAN1206/M3_WIPER_SYSTEM/actions/workflows/Valgrind.yml)
 
 
 
