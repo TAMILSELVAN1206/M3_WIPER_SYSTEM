@@ -1,1 +1,2 @@
-
+## Abstract :
+The automatic rain wiper technology detects rainfall and activates the wipers without the driver having to do anything. This technology ensures the safety of the drivers, allowing them to concentrate on their primary responsibility of driving. Engineers are now researching completely automated systems that adjust the wiper blade speed in response to the rate of rainfall and the vehicle's speed. These systems are found in luxury cars, SUVs, and other high-end vehicles. As a result, the goal is to build an automatic wiper system for non-expensive autos that regular people can buy that changes the pace of the wiper blades with the rate of rainfall.
