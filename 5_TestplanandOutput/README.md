@@ -10,4 +10,14 @@ LLR1	STM32 INTERFACING WITH PUSH BUTTONS	IMPLEMENTED
 LLR2	PUSH BUTTONS INTERFACING WITH LEDS	IMPLEMENTED
 
 
-## 
+## RED LED :
+![Red colour](https://user-images.githubusercontent.com/101853782/168419011-512ce473-c80c-4d90-8021-24181d070629.png)
+
+
+
+## GREEN LED :
+![Green colour](https://user-images.githubusercontent.com/101853782/168419039-e63cbca6-a992-492a-91d1-9dbb02d4055a.png)
+
+
+## ORANGE LED :
+![orange led on](https://user-images.githubusercontent.com/101853782/168419062-afb938d1-4a0e-423a-9e22-df478f7bc44f.png)
